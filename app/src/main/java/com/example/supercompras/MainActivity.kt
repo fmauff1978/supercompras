@@ -83,14 +83,7 @@ private fun ImagemTopoPreview() {
     SuperComprasTheme { ImagemTopo() }
 }
 
-@Preview
-@Composable
-private fun TituloPreview() {
-    SuperComprasTheme {
-        Titulo()
-    }
-    
-}
+
 
 @Preview(showBackground = true)
 @Composable
